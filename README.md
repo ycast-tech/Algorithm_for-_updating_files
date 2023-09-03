@@ -8,3 +8,5 @@ You are a security professional working at a health care company. As part of you
 
 Your task is to create an algorithm that uses Python code to check whether the allow list contains any IP addresses identified on the remove list. If so, you should remove those IP addresses from the file containing the allow list.
 
+### Step 1
+
